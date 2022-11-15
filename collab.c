@@ -21,11 +21,17 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void yshand2_lkris2() {
+  printf("\n\nLakshmi Krishnan and Yashi Shandilya\n");
+  printf("We learned that version control allows us to make mistakes more freely, without having to bear the cost of remembering changes and tracking them ourselves.\n");
+  printf("Unbelievable.\n");
+}
+
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
-    
+    yshand2_lkris2();
     return 0;
 }
